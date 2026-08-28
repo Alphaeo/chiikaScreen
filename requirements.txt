@@ -1,0 +1,6 @@
+llama-cpp-python
+huggingface_hub
+mss
+Pillow
+keyboard
+pywin32
